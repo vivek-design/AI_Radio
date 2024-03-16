@@ -30,7 +30,6 @@ jobs:
          run: flutter pub get 
 
      
-    
 
        - name : Build Apk
          run : flutter build apk --release
