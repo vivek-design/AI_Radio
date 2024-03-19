@@ -1,8 +1,15 @@
-# radio_1
+# AI Powered Radio Application  
 
-A new Flutter project.
+Flutter application which plays online radio using http calls .
 
-## Getting Started
+## Some screenshots
+
+![ai1](https://github.com/vivek-design/AI_Radio/assets/79709538/7bdc2951-a8a5-4fcf-860c-9dc11b03985e)
+![ai2](https://github.com/vivek-design/AI_Radio/assets/79709538/36adec00-159b-4d1d-b4d0-1067bcaa2ff4)
+![ai3](https://github.com/vivek-design/AI_Radio/assets/79709538/6d935840-04ec-4525-85fb-fb860de36b8e)
+![ai5](https://github.com/vivek-design/AI_Radio/assets/79709538/75f5ea51-4fe8-4e8f-9b5c-b7ff19b97b09)
+
+
 
 This project is a starting point for a Flutter application.
 
