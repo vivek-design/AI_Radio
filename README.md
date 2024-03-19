@@ -5,13 +5,13 @@ Flutter application which plays online radio using http calls .
 ## Some screenshots
 <img src="https://github.com/vivek-design/AI_Radio/assets/79709538/7bdc2951-a8a5-4fcf-860c-9dc11b03985e"  width="300"/>
 
----
+
 <img src="https://github.com/vivek-design/AI_Radio/assets/79709538/29d4d4fe-daa6-4a34-97b2-dc70709a08f2"  width="300"/>
 
 ---
 <img src="https://github.com/vivek-design/AI_Radio/assets/79709538/6d935840-04ec-4525-85fb-fb860de36b8e"  width="300"/>
 
----
+
 <img src="https://github.com/vivek-design/AI_Radio/assets/79709538/75f5ea51-4fe8-4e8f-9b5c-b7ff19b97b09"  width="300"/>
 
 
